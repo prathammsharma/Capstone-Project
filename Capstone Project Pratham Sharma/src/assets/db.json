@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "location": "New York",
+      "mobileNumber": "1234567890"
+    },
+    {
+      "id": 2,
+      "email": "jane.smith@example.com",
+      "password": "password456",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "location": "Los Angeles",
+      "mobileNumber": "0987654321"
+    },
+    {
+      "email": "pra@gmail.com",
+      "password": "12345678",
+      "firstName": "pratham",
+      "lastName": "sharma",
+      "location": "delhi",
+      "mobileNumber": "8756946859",
+      "id": 3
+    },
+    {
+      "email": "pratham55@gmail.com",
+      "password": "123456",
+      "firstName": "pratham",
+      "lastName": "sharma",
+      "location": "delhi",
+      "mobileNumber": "8756946859",
+      "id": 4
+    },
+    {
+      "email": "pratham0101@gmail.com",
+      "password": "12345678",
+      "firstName": "Pratham",
+      "lastName": "Sharma",
+      "location": "Delhi",
+      "mobileNumber": "8750896904",
+      "id": 5
+    },
+    {
+      "email": "pratham0101@gmail.com",
+      "password": "12345678",
+      "firstName": "Pratham",
+      "lastName": "Sharma",
+      "location": "Delhi",
+      "mobileNumber": "8750896904",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "id": 1742045539297,
+      "name": "Speakers",
+      "description": "Digital",
+      "manufacturer": "Boat",
+      "price": 9800,
+      "quantity": 8
+    },
+    {
+      "name": "Smart Ring",
+      "description": "with calling option",
+      "manufacturer": "JBL",
+      "price": 3500,
+      "quantity": 6,
+      "id": 1742113024362
+    },
+    {
+      "name": "Pendrive",
+      "description": "64GB",
+      "manufacturer": "Sandisk",
+      "price": 499,
+      "quantity": 6,
+      "id": 1742113094139
+    },
+    {
+      "name": "Adapter",
+      "description": "35W",
+      "manufacturer": "Realme",
+      "price": 699,
+      "quantity": 3,
+      "id": 1742113137139
+    },
+    {
+      "name": "Room Heater",
+      "description": "With super alloy",
+      "manufacturer": "Orpat",
+      "price": 5000,
+      "quantity": 9,
+      "id": 1742113196889
+    },
+    {
+      "name": "Air Conditioner",
+      "description": "1.5 ton",
+      "manufacturer": "Hitachi",
+      "price": 35000,
+      "quantity": 8,
+      "id": 1742113236233
+    }
+  ]
+}
